@@ -1,0 +1,11 @@
+.icon-foo {
+  background: url('icons/foo.png');
+}
+
+.icon-bar {
+  background: url('icons/bar.png');
+}
+
+.icon-baz {
+  background: url('icons/baz.png');
+}

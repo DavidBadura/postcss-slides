@@ -1,0 +1,3 @@
+.up {
+    background: svg-load('img/arrow-up.svg', fill=#000, stroke=#fff);
+}

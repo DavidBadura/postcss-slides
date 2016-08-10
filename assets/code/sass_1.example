@@ -1,0 +1,11 @@
+$primary: #FF530D;
+$background: #222;
+
+.codebox {
+  font-color: $primary;
+  background: $background;
+
+  &:hover {
+    background: lighten($background, 10%);
+  }
+}

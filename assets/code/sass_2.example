@@ -1,0 +1,8 @@
+.codebox {
+  font-color: #FF530D;
+  background: #222;
+}
+
+.codebox:hover {
+  background: #373737;
+}

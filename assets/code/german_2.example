@@ -1,0 +1,7 @@
+.foo {
+    height: 300px;
+    margin-bottom: 10px;
+    font-size: 20px !important;
+    background-color: black;
+    color: white;
+}

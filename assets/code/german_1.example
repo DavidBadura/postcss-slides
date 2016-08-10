@@ -1,0 +1,7 @@
+.foo {
+    höhe: 300px;
+    außenabstand-unten: 10px;
+    schriftgröße: 20px !wichtig;
+    hintergrundfarbe: schwarz;
+    farbe: weiß;
+}

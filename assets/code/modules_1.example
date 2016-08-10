@@ -1,0 +1,20 @@
+/* styles.css */
+:global .page {
+    padding: 20px;
+}
+.title {
+    composes: title from "./mixins.css";
+    color: green;
+}
+.article {
+    font-size: 16px;
+}
+
+/* mixins.css */
+.title {
+    color: black;
+    font-size: 40px;
+}
+.title:hover {
+    color: red;
+}
